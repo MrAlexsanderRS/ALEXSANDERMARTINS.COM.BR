@@ -118,22 +118,22 @@ if (navigationLinks && pages) {
 // --- Dados dos Depoimentos ---
 const testimonialsData = [
     {
+    avatarSrc: "https://i.postimg.cc/fRFWhX9F/avatar-3.png",
+    avatarAlt: "avatar",
+    name: "Nicoly Siqueira",
+    text: "Um excelente dev front end, me ensina e ajuda em projetos!"
+    },
+    {
         avatarSrc: "https://i.postimg.cc/DwY0yHtx/avatar-2.png",
         avatarAlt: "avatar",
         name: "Jucelia Martins",
-        text: "Richard was hired to create a corporate identity. It's modern, clean and with a beautiful design that got a lot of praises from colleagues and visitors. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client."
+        text: "Trabalho na FgMed, e tive o prazer de ver o trabalho de Alexsander. Ao qual gostei demais!"
     },
     {
         avatarSrc: "https://i.postimg.cc/zGDHfn3G/avatar-1.png",
         avatarAlt: "avatar",
-        name: "Bruco Cesar",
-        text: "Working with Richard has been an absolute pleasure. I was impressed with his attention to detail, his web design skills and his professional approach to our timelines and processes."
-    },
-    {
-        avatarSrc: "https://i.postimg.cc/fRFWhX9F/avatar-3.png",
-        avatarAlt: "avatar",
-        name: "Nicoly Siqueira",
-        text: "I couldn't be happier with the website that Richard created for us. His attention to detail and creativity is unmatched. Our clients frequently compliment the design, and it has significantly improved our brand image."
+        name: "Wagner Rodrigues",
+        text: "Trabalhei com Alexsander em alguns projetos, e um dev com um futuro promissor."
     },
 ];
 
